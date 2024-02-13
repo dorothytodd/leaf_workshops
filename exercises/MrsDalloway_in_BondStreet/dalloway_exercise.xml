@@ -64,7 +64,7 @@
 
 
             <p><persName>Mrs Dalloway</persName> said she would buy the gloves herself.</p>
-            <p><placeName>Big Ben</placeName> was striking as she stepped out into the street. It was <time><time>eleven o'clock</time></time> and
+            <p><placeName><rs>Big Ben</rs></placeName> was striking as she stepped out into the street. It was <time><time>eleven o'clock</time></time> and
                the unused hour was fresh as if issued to children on a beach. But there was
                something solemn in the deliberate swing of the repeated strokes; something stirring
                in the murmur of wheels and the shuffle of footsteps.</p>
@@ -79,7 +79,7 @@
                a blue ring.</p>
             <p>Poor little wretches, she sighed, and pressed forward. Oh, right under the horses'
                noses, you little demon! and there she was left on the kerb stretching her hand out,
-               while Jimmy Dawes grinned on the further side.</p>
+               while <persName type="fictional">Jimmy Dawes</persName> grinned on the further side.</p>
             <p>A charming woman, poised, eager, strangely white-haired for her pink cheeks, so Scope Purvis, C. B., saw her as he hurried to his office. She stiffened a little, waiting
                for Durtnall's van to pass. Big Ben struck the tenth; struck the eleventh stroke. The
                leaden circles dissolved in the air. Pride held her erect, inheriting, handing on,
